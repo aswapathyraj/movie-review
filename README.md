@@ -2,7 +2,7 @@
 
 A modern, responsive web application for searching movies and generating AI-powered reviews. Built with a **Node.js/Express** backend and a **HTML/CSS/JavaScript** frontend, it integrates with the OMDb API for movie data and the Groq API for AI-generated reviews.
 
-![Preview](/public/preview.png)  
+![Preview](/preview.png)  
 <!-- Replace with your actual screenshot -->
 
 ---
@@ -142,5 +142,3 @@ Contributions, suggestions, or improvements are welcome!
 Please open an issue or pull request on [GitHub](https://github.com/aswapathyraj/movie-review).
 
 ---
-
-**Note**: Replace `/public/preview.png` with an actual screenshot of your application. If the repository URL or project details differ, please provide the correct information, and I can update the README accordingly.
